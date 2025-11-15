@@ -53,3 +53,11 @@ Thumbs.db
 # Project specific
 *.log
 .mypy_cache/
+
+# Large media files
+*.mp4
+*.pdf
+*.mov
+
+# Project documentation (local only)
+Reflections.md

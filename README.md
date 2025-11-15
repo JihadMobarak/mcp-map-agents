@@ -202,10 +202,7 @@ mcp-map-agents/
 ├── mypy.ini                    # Type checking configuration
 ├── .env.example                # Environment variables template
 ├── .gitignore                  # Git ignore rules
-├── README.md                   # This file
-├── Reflections.md              # Project reflections & learnings
-├── Article_Summary.pdf         # Supporting documentation
-└── recording_demo.mp4          # Demo video
+└── README.md                   # This file
 ```
 
 ## Implementation Details
@@ -277,14 +274,6 @@ Total:     ~26 tests, 65%+ code coverage
 ## License
 
 This project is provided as an educational example for EECE 503P.
-
-## Additional Resources
-
-This repository includes the following supporting materials:
-
-- **Reflections.md** - Project insights, design decisions, and learning outcomes
-- **Article_Summary.pdf** - Technical documentation and architectural overview
-- **recording_demo.mp4** - Video demonstration of the system in action
 
 ## References
 
